@@ -1,0 +1,1 @@
+Creation of folder for Pytrends notebook
